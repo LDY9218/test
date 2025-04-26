@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/workspaces/test/a.py","tests":[{"id":1744519443453,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/test/a.py","group":"local","local":true}
